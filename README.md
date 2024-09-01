@@ -1,8 +1,7 @@
 --------------------------------------------------------------------------------------------------------------------------
 Hi there 👋
-Back-End Developer | Python | C# | JavaScript | React.js
-🔗 LinkedIn (www.linkedin.com/in/uerik-saldanha-1955292bb)
-[![LinkedIn Icon](https://github.com/UerikSilvaCavalcante/UerikSilvaCavalcante/raw/main/logotipo-do-linkedin .png)](https://www.linkedin.com/in/uerik-saldanha-1955292bb)
+Back-End Developer | Python | C# | JavaScript | React.js                                                                                                                        
+[![LinkedIn Icon](https://github.com/UerikSilvaCavalcante/UerikSilvaCavalcante/raw/main/logotipo-do-linkedin.png)](https://www.linkedin.com/in/uerik-saldanha-1955292bb) -Linkedin                                                                                                                                                                        
 📧 Email (uerisalcaval003@gmail.com)
 --------------------------------------------------------------------------------------------------------------------------
 👨‍💻 About Me
