@@ -2,7 +2,7 @@
 Hi there 👋
 Back-End Developer | Python | C# | JavaScript | React.js                                                                                                                        
 [![LinkedIn Icon](https://github.com/UerikSilvaCavalcante/UerikSilvaCavalcante/raw/main/logotipo-do-linkedin.png)](https://www.linkedin.com/in/uerik-saldanha-1955292bb) -Linkedin                                                                                                                                                                        
-📧 Email (uerisalcaval003@gmail.com)
+[![Email Icon](https://github.com/seu-username/seu-repositorio/raw/main/o-email.png)](mailto:uerisalcaval003@gmail.com)
 --------------------------------------------------------------------------------------------------------------------------
 👨‍💻 About Me
 Hello, I'm Uerik Saldanha, a Brazilian back-end developer with a passion for technology and innovation. Currently, I work as a junior programmer, applying my skills in Python, C#, JavaScript, and React.js to build efficient and scalable solutions.
