@@ -2,7 +2,7 @@
 
 Hi there 👋
 =
-Back-End Developer | Python | C# | JavaScript | React.js                                                                                                                        
+Back-End Developer | Python | C# | JavaScript | Node.js | Typescript | React.js                                                                                                                        
 =
 🔗 [LinkedIn](https://www.linkedin.com/in/uerik-saldanha-1955292bb)  
 📧 [Email](mailto:uerisalcaval003@gmail.com)
