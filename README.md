@@ -2,30 +2,30 @@
 
 Hi there 👋
 =
-Back-End Developer | Python | C# | JavaScript | Node.js | Typescript | React.js                                                                                                                        
-=
+# Back-End Developer | Python | C# | JavaScript | Node.js | Typescript | React.js                                                                                                                        
+
 🔗 [LinkedIn](https://www.linkedin.com/in/uerik-saldanha-1955292bb)  
 📧 [Email](mailto:uerisalcaval003@gmail.com)
 
 --------------------------------------------------------------------------------------------------------------------------
-👨‍💻 About Me
-=
-Hello, I'm Uerik Saldanha, a Brazilian back-end developer with a passion for technology and innovation. Currently, I work as a junior programmer, applying my skills in Python, C#, JavaScript, and React.js to build efficient and scalable solutions.
+# 👨‍💻 About Me
+
+Hello, I'm Uerik Saldanha, a Brazilian back-end developer with a passion for technology and innovation. Currently, I work as a junior programmer, applying my skills in Python, C#, JavaScript, TypeScript, SQL Server, PostgreSQL and React.js to build efficient and scalable solutions.
 
 I am a fast learner with a knack for handling new technologies and a strong sense of teamwork. I believe programming is a powerful tool for advancing humanity, and I am always looking for new ways to apply it in areas where it has not yet been explored.
 
--🤝 Collaborative: I love helping team members and contributing to collective success.
+- 🤝 Collaborative: I love helping team members and contributing to collective success.
 
--🎮 Patient and Focused: I stay calm and focused even in challenging situations, and I have a hobby of playing video games.
+- 🎮 Patient and Focused: I stay calm and focused even in challenging situations, and I have a hobby of playing video games.
 
--📚 Curious: I am constantly learning and improving my software development skills.
+- 📚 Curious: I am constantly learning and improving my software development skills.
 
 --------------------------------------------------------------------------------------------------------------------------
-🚀 Some Important Projects
-=
-Project Name 1: Brief description of the project, what it does, and the technologies used.
+# 🚀 Some Important Projects
 
-Project Name 2: Another brief description of a relevant project, highlighting your role and the technologies employed.
+- Project InOrbit: A goal tracker for the week using TypeScript, PostgreSQL, and React.js.
+
+- Project Controle de Contatos: A website using ASP.Net MVC, with PostgreSQL, and Bootstrap for the frontend.
 
 --------------------------------------------------------------------------------------------------------------------------
 📫 Contact
